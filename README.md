@@ -1,4 +1,4 @@
-# Bypass-Facebook-SLL-Pinning
+# Bypass-Facebook-SSL-Pinning
 Bypass ssl pinning for facebook android app
 
 **ARM** 
