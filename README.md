@@ -1,4 +1,4 @@
-# Bypass-Facebook-SSL-Pinning
+# Bypass-Facebook-SSL-Pinning (REQUIRE ROOTED)
 Bypass ssl pinning for facebook android app
 
 **ARM** 

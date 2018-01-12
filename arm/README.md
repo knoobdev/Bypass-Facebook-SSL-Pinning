@@ -1,6 +1,6 @@
-# Bypass Facebook SSL Pinning
-Bypassing Facebook SSL pinning for version 153.0.0.54.88 | Min API 15 | arm | December 16, 2017
-[Download Link](https://www.apkmirror.com/apk/facebook-2/facebook/facebook-153-0-0-54-88-release/facebook-153-0-0-54-88-android-apk-download/)
+# Bypass Facebook SSL Pinning (REQUIRE ROOTED)
+Bypassing Facebook SSL pinning for version 154.0.0.33.385 | Min API 15 | arm | January 11, 2018
+[Download Link](https://www.apkmirror.com/apk/facebook-2/facebook/facebook-154-0-0-33-385-release/facebook-154-0-0-33-385-android-apk-download/)
 
 
 #### libcoldstart.so
@@ -13,7 +13,7 @@ Replace the libcoldstart.so file in **/data/data/com.facebook.katana/lib-xzs**
 
 
 
-We need to patch **0x001F5484** and **0x001F5486**:
+We need to patch **0x001F9B24** and **0x001F9B26**:
 
 ![before_patching](https://raw.githubusercontent.com/knoobdev/Bypass-Facebook-SLL-Pinning/master/arm/before_patch.jpg?54119)
 
