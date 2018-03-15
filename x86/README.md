@@ -1,5 +1,5 @@
 # Bypass Facebook SSL Pinning (REQUIRE ROOTED)
-Bypassing Facebook SSL pinning for version 161.0.0.35.93
+Bypassing Facebook SSL pinning for version 163.0.0.43.91
 
 #### libcoldstart.so
 
