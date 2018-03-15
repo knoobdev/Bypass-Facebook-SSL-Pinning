@@ -1,7 +1,7 @@
 # Bypass-Facebook-SSL-Pinning (REQUIRE ROOTED)
 Bypass ssl pinning for facebook android app
 
-**ARM** 
+**ARM & X86** 
 
 Follow the instructions and replace libcoldstart.so file in **/data/data/com.facebook.katana/lib-xzs**
 
