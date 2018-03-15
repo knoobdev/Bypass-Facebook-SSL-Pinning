@@ -1,6 +1,6 @@
 # Bypass Facebook SSL Pinning (REQUIRE ROOTED)
-Bypassing Facebook SSL pinning for version 161.0.0.35.93 | Min API 15 | arm | February 28, 2018
-[Download Link](https://www.apkmirror.com/apk/facebook-2/facebook/facebook-161-0-0-35-93-release/facebook-161-0-0-35-93-2-android-apk-download/)
+Bypassing Facebook SSL pinning for version 163.0.0.43.91 | Min API 15 | arm | March 13, 2018
+[Download Link](https://www.apk4fun.com/apk/2430/)
 
 
 #### libcoldstart.so
