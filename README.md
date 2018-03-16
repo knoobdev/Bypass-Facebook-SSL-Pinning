@@ -14,4 +14,4 @@ Follow me to get notification when updates are available:
 - Group: https://www.facebook.com/groups/j2team.community/
 - Fanpage: https://www.facebook.com/179034362668856
 
-Thanks to [pouyadarabi](https://github.com/pouyadarabi/Facebook_SSL_Pinning)
+Thank to [pouyadarabi](https://github.com/pouyadarabi/Facebook_SSL_Pinning)
